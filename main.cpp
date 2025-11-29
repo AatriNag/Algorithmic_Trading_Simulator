@@ -1,5 +1,5 @@
 #include "Stock.h"
-#include "Portfolio.h"
+#include "Trader.h"
 #include "Order.h"
 #include "BuyOrder.h"
 #include "SellOrder.h"
@@ -96,3 +96,4 @@ int main()
 
     return 0;
 }
+
